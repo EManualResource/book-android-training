@@ -1,0 +1,5 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "Android官方培训课程中文版",
+    "plugins": ["-sharing","-search"]
+}
