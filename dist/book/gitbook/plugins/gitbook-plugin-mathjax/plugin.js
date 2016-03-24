@@ -1,0 +1,1 @@
+require(["gitbook"],function(e){MathJax.Hub.Config({tex2jax:{inlineMath:[["$","$"],["\\(","\\)"]],processEscapes:!0}}),e.events.bind("page.change",function(){MathJax.Hub.Typeset()})});
